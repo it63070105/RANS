@@ -6,7 +6,6 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "hostUri": "https://main.d1h1t3h4v5dck6.amplifyapp.com",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
